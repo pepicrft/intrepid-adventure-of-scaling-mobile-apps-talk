@@ -506,5 +506,6 @@ class ProfileInteractor {
 
 # Thanks
 ### **Questions?**
+### Slides: https://goo.gl/2dbsej
 
 ![](images/thanks.jpg)
