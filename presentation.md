@@ -6,6 +6,8 @@ slidenumbers: true
 
 ### **@pepibumur**
 
+![](images/berlin.jpg)
+
 ---
 
 # About me
@@ -87,7 +89,7 @@ slidenumbers: true
 
 ---
 
-# Code
+# 1. Code
 
 ![](images/code.jpg)
 
@@ -299,7 +301,7 @@ class ProfileInteractor {
 
 ---
 
-# Building UI
+# 2. UI
 
 ![](images/ui.jpg)
 
@@ -335,7 +337,7 @@ class ProfileInteractor {
 
 ---
 
-# Tools/Projects
+# 3. Tools/Projects
 ![](images/tools.jpg)
 
 ---
@@ -428,7 +430,7 @@ class ProfileInteractor {
 
 ---
 
-### Reproducible builds
+### **Reproducible builds**
 # "My build is failing on CI but it doesn't fail locally" 😡
 
 ---
@@ -442,7 +444,7 @@ class ProfileInteractor {
 
 ---
 
-# Teams
+# 4. Teams
 
 ![](images/teams.jpg)
 
@@ -457,12 +459,21 @@ class ProfileInteractor {
 
 👍 They are independent.
 👎 They might duplicate code.
-👎
-
+👎 Patterns/style might diverge a lot.
 
 ---
 
-# **Mob**ops team
+# Be consistent
+
+- Build settings.
+- Tools.
+- Processes.
+- Patterns.
+- Programming languages.
+
+---
+
+# **Mob**ops team 👩‍💻👨‍💻
 
 - Has an overview of the project as a whole.
 - Identifies patterns across teams and extracts reusable components.
@@ -475,9 +486,16 @@ class ProfileInteractor {
 # Collective meetings
 ### Where all the iOS/Android developers from different teams come together to talk about the vision of the project
 
+![](images/meeting.jpg)
+
 ---
 
 # Conclusions
+
+![](images/conclusions.jpg)
+
+---
+
 - If you are not facing the challenges I talked about, you'll do sooner or later.
 - Don't let yourself be influenced by hype technologies.
 - Automate as much as you can.
@@ -488,3 +506,5 @@ class ProfileInteractor {
 
 # Thanks
 ### **Questions?**
+
+![](images/thanks.jpg)
